@@ -1,0 +1,6 @@
+Django==4.0.2
+django-cors-headers==3.11.0
+djangorestframework==3.13.1
+environs==9.5.0
+PaycomUz==3.0
+requests==2.27.1
